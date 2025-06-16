@@ -11,7 +11,7 @@ import os
 import time # Import the time module
 
 # Set your Gemini API key here
-API_KEY = "AIzaSyBD5-ccQ_wCn0xEO8Vyj2628WrGVTodYTo" # Replace with your actual API key
+API_KEY = "Replace with your actual API key" 
 genai.configure(api_key=API_KEY)
 
 # Initialize model
